@@ -1,0 +1,188 @@
+NOTE:
+    -You should not re-arrange the files/folder structure
+    -You should only add your code on the index.html and css file.
+
+COLOR CODE:
+    Header (Navbar):
+        Background Color: white (#ffffff)
+        Brand Text Color: primary (#0d6efd)
+        "Get Started" Button Background: primary (#0d6efd)
+        "Get Started" Button Text: white (#ffffff)
+
+    Body Text (Default Bootstrap):
+        Color: #212529
+
+    Hero Section:
+        Background Color: primary (#0d6efd)
+        Text Color: white (#ffffff)
+        "Start Growing Today" Button Background: light (#f8f9fa)
+        "Start Growing Today" Button Text: dark (#212529)
+        "Learn More" Button Outline/Text: light (#f8f9fa)
+
+    Our Services Section Icons:
+        Keyword Research Icon Background: primary (#0d6efd)
+        Content Optimization Icon Background: success (#198754)
+        Link Building Icon Background: warning (#ffc107)
+        Technical SEO Icon Background: info (#0dcaf0)
+        Local SEO Icon Background: danger (#dc3545)
+        SEO Analytics Icon Background: dark (#212529)
+        All Service Icons Text: white (#ffffff)
+
+    Testimonials Section:
+        Background Color: light (#f8f9fa)
+        Star Color: warning (#ffc107)
+        Card Left Border Color: primary (#0d6efd) (from styles.css)
+
+    Contact Us Section:
+        "Get Your Free SEO Audit" Button Background: primary (#0d6efd)
+        "Get Your Free SEO Audit" Button Text: white (#ffffff)
+        Address Icon Background: primary (#0d6efd)
+        Phone Icon Background: success (#198754)
+        Email Icon Background: info (#0dcaf0)
+        Business Hours Icon Background: warning (#ffc107)
+        All Contact Info Icons Text: white (#ffffff)
+
+    Footer:
+        Background Color: dark (#212529)
+        Text Color: white (#ffffff)
+        Links Text Color: light (#f8f9fa)
+
+TEXT:
+    Title:
+        SEO Agency - Boost Your Online Presence
+
+    Nav Menu:
+        Brand: <i class="bi bi-graph-up-arrow me-2"></i>SEO Pro
+        Home
+        Services
+        Testimonials
+        Contact
+        Button: Get Started
+
+    Hero Section:
+        Headline: Dominate Search Results with Expert SEO
+        Lead Paragraph: Boost your online visibility, drive organic traffic, and grow your business with our proven SEO strategies. Get results that matter.
+        Button 1: <i class="bi bi-rocket-takeoff me-2"></i>Start Growing Today
+        Button 2: <i class="bi bi-play-circle me-2"></i>Learn More
+        Stat 1: 500+ Happy Clients
+        Stat 2: 95% Success Rate
+        Stat 3: 24/7 Support
+
+    Our Services Section:
+        Title: Our SEO Services
+        Subtitle: Comprehensive SEO solutions tailored to boost your search engine rankings and drive qualified traffic to your website.
+
+        Service 1:
+            Icon: <i class="bi bi-search text-white fs-4"></i>
+            Title: Keyword Research
+            Description: Identify high-value keywords that your target audience is searching for to maximize your organic reach.
+
+        Service 2:
+            Icon: <i class="bi bi-file-earmark-text text-white fs-4"></i>
+            Title: Content Optimization
+            Description: Create and optimize content that ranks higher and engages your audience effectively.
+
+        Service 3:
+            Icon: <i class="bi bi-link-45deg text-white fs-4"></i>
+            Title: Link Building
+            Description: Build high-quality backlinks to increase your domain authority and search rankings.
+
+        Service 4:
+            Icon: <i class="bi bi-speedometer2 text-white fs-4"></i>
+            Title: Technical SEO
+            Description: Optimize your website's technical foundation for better crawling and indexing by search engines.
+
+        Service 5:
+            Icon: <i class="bi bi-geo-alt text-white fs-4"></i>
+            Title: Local SEO
+            Description: Dominate local search results and attract customers in your geographical area.
+
+        Service 6:
+            Icon: <i class="bi bi-graph-up text-white fs-4"></i>
+            Title: SEO Analytics
+            Description: Track your progress with detailed analytics and reporting to measure SEO success.
+
+    What Our Clients Say Section (Testimonials):
+        Title: What Our Clients Say
+        Subtitle: Don't just take our word for it. See what our satisfied clients have to say about our SEO services.
+
+        Star icon: <i class="bi bi-star-fill text-warning me-1"></i>
+
+        Testimonial 1:
+            Quote: "SEO Pro transformed our online presence completely. We went from page 5 to the top 3 results for our main keywords within 6 months. Our organic traffic increased by 300%!"
+            Client Name: John Smith
+            Client Title: CEO, TechStart Inc.
+
+        Testimonial 2:
+            Quote: "Outstanding results! The team's expertise in local SEO helped us dominate our local market. We're now the go-to business in our area, and leads have tripled."
+            Client Name: Maria Johnson
+            Client Title: Owner, Local Eats Restaurant
+
+        Testimonial 3:
+            Quote: "Professional, reliable, and results-driven. SEO Pro delivered exactly what they promised. Our ROI from organic search has exceeded all expectations."
+            Client Name: David Rodriguez
+            Client Title: Marketing Director, Growth Co.
+
+    Contact Us Section:
+        Title: Ready to Boost Your Rankings?
+        Subtitle: Get in touch with our SEO experts today and start your journey to the top of search results.
+        Form Title: Send us a message
+        Form Labels:
+            First Name
+            Last Name
+            Email
+            Website URL
+            Service Interested In
+                Choose a service...
+                Keyword Research
+                Content Optimization
+                Link Building
+                Technical SEO
+                Local SEO
+                Complete SEO Package
+            Message
+        Submit Button: <i class="bi bi-send me-2"></i>Get Your Free SEO Audit
+
+        Contact Information Title: Get in Touch
+        Contact 1:
+            Icon: <i class="bi bi-geo-alt text-white"></i>
+            Title: Address
+            Details: 123 SEO Street<br />Digital City, DC 12345
+        Contact 2:
+            Icon: <i class="bi bi-telephone text-white"></i>
+            Title: Phone
+            Details: +1 (555) 123-4567
+        Contact 3:
+            Icon: <i class="bi bi-envelope text-white"></i>
+            Title: Email
+            Details: hello@seopro.com
+        Contact 4:
+            Icon: <i class="bi bi-clock text-white"></i>
+            Title: Business Hours
+            Details: Mon - Fri: 9AM - 6PM<br />Sat: 10AM - 4PM
+
+    Footer:
+        Brand: <i class="bi bi-graph-up-arrow me-2"></i>SEO Pro
+        Tagline: Your trusted partner for dominating search engine results. We help businesses grow their online presence through proven SEO strategies.
+        Social Icons:
+            <i class="bi bi-facebook"></i>
+            <i class="bi bi-twitter-x"></i>
+            <i class="bi bi-linkedin"></i>
+            <i class="bi bi-instagram"></i>
+
+        Services Links Title: Services
+            Keyword Research
+            Content Optimization
+            Link Building
+            Technical SEO
+            Local SEO
+
+        Company Links Title: Company
+            About Us
+            Our Team
+            Case Studies
+            Blog
+            Careers
+
+        Copyright: &copy; 2025 SEO Pro. All rights reserved.
+        Secure Text: <i class="bi bi-shield-check me-2"></i>Secure & Trusted SEO Services
